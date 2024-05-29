@@ -3,6 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Jehyuk's%20Github&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
  <br/>
+
+ <br/>
+
+<h3><a href="https://www.notion.so/jhportfolio/5d75beb171174773bb95fe96a691d14d" target="_blank">📰 Portfolio 📰</a></h3>
+
+<br/>
+
  <br/>
 
  ## 📊 My Stats
